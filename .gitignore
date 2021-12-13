@@ -4,6 +4,8 @@
 metals.sbt
 target/
 .scala/
+.metals
+.vscode
 
 # Solutions
 /solutions/
