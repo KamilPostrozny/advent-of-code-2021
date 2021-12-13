@@ -1,11 +1,12 @@
 # Scala stuff
-/.bloop/
+.bloop/
 .bsp/
 metals.sbt
 target/
 .scala/
 .metals
 .vscode
+project/.bloop
 
 # Solutions
 /solutions/
